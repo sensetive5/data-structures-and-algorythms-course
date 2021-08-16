@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-and-algorythms-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sensetive5/data-structures-and-algorythms-course.git",
+  "author": "Alexander Sokolov <owngr@yandex-team.ru>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
